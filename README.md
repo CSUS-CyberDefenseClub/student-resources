@@ -44,7 +44,8 @@ The fundamentals of cyber security including but not limited to
 7. [https://www.hacking-tutorial.com/](https://www.hacking-tutorial.com/)
 8. [https://hacklido.com/d/85-collection-of-resources-for-oscp](https://hacklido.com/d/85-collection-of-resources-for-oscp)
 9. [https://www.netsecfocus.com/oscp/2021/05/06/The/_Journey/_to/_Try/_Harder-/_TJnull-s/_Preparation/_Guide/_for/_PEN-200/_PWK/_OSCP/_2.0.html]
-10. https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+10. [https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+11. [https://www.hackerpom.com/feed](https://www.hackerpom.com/feed)
 
 
 ### Books
