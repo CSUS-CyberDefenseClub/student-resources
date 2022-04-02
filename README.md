@@ -32,6 +32,7 @@ The fundamentals of cyber security including but not limited to
 13. [https://www.bugbountyhunter.com/](https://www.bugbountyhunter.com/)
 14. [https://www.hacker101.com/](https://www.hacker101.com/)
 15. [https://www.hacksplaining.com/](https://www.hacksplaining.com/)
+16. [Nightmare - an Intro Binary Exploitation Course](https://guyinatuxedo.github.io/index.html)
 
 ### Blogs:
 
