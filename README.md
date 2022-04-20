@@ -33,6 +33,7 @@ The fundamentals of cyber security including but not limited to
 14. [https://www.hacker101.com/](https://www.hacker101.com/)
 15. [https://www.hacksplaining.com/](https://www.hacksplaining.com/)
 16. [Nightmare - an Intro Binary Exploitation Course](https://guyinatuxedo.github.io/index.html)
+17. [Cisco Networking Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
 
 ### Blogs:
 
